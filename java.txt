@@ -1,1 +1,2 @@
-This is sample java program
+java is a programming language
+it is easy to learn
